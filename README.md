@@ -9,8 +9,7 @@
   <em>By Tripartitus</em>
 </p>
 
----
-![Screenshot](https://cdn.corenexis.com/files/c/3335384720.png)
+---![Screenshot](https://cdn.corenexis.com/files/c/4184895720.png)
 **Antidote is a complete rework and major update of my previous project, Win11GS (Windows 11 Gamer Setup).**  
 It features a brand-new UI, a genuine icon, dozens of additions, and extensive fixes while keeping the core philosophy of the original.
 
