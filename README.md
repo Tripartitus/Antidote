@@ -299,7 +299,7 @@ Every run produces a timestamped log file at `%APPDATA%\Antidote\logs\`. The log
 | **RAM** | 2 GB minimum free |
 | **Privileges** | Administrator — required. Most phases modify HKLM registry, stop services, or manage scheduled tasks. |
 | **Runtime** | .NET 9 (included in the installer) |
-| **Disk** | ~50 MB for the application |
+| **Disk** | ~450 MB for the application |
 
 ---
 
