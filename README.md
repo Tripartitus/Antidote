@@ -3,7 +3,7 @@
 # Antidote
 ### Windows Optimization, Cleanup, Debloat & Privacy Hardening
 
-**Free. Open source. No license. Built for everyone.**
+**Free. No license. Built for everyone.**
 
 [![Version](https://img.shields.io/badge/version-2.4.0-brightgreen?style=flat-square)](https://github.com/Tripartitus/Antidote/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue?style=flat-square)](https://github.com/Tripartitus/Antidote)
