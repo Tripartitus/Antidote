@@ -3,14 +3,14 @@
 # Antidote
 ### Windows Optimization, Cleanup, Debloat & Privacy Hardening
 
-**Free. No license. Built for everyone.**
+**Free to use. Proprietary. Built for everyone.**
 
 [![Version](https://img.shields.io/badge/version-2.4.0-brightgreen?style=flat-square)](https://github.com/Tripartitus/Antidote/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue?style=flat-square)](https://github.com/Tripartitus/Antidote)
-[![License](https://img.shields.io/badge/license-Free%20%E2%80%94%20always-orange?style=flat-square)](https://github.com/Tripartitus/Antidote)
+[![License](https://img.shields.io/badge/license-Proprietary%20%E2%80%94%20free%20to%20use-orange?style=flat-square)](https://github.com/Tripartitus/Antidote)
 [![Built with](https://img.shields.io/badge/built%20with-.NET%209-purple?style=flat-square)](https://github.com/Tripartitus/Antidote)
 
-*by [Tripartitus](https://github.com/Tripartitus) — [Twitch](https://www.twitch.tv/tripartitusgaming) · [YouTube](https://www.youtube.com/@TripartitusGaming)*
+*by [Tripartitus](https://github.com/Tripartitus) — [Twitch](https://www.twitch.tv/tripartitusgaming) · [YouTube](https://www.youtube.com/@TripartitusGaming) · [GitHub](https://github.com/Tripartitus)*
 
 </div>
 
@@ -305,9 +305,11 @@ Every run produces a timestamped log file at `%APPDATA%\Antidote\logs\`. The log
 
 ## A note on SmartScreen
 
-When you download and run the installer, Windows SmartScreen may warn you that the application is from an unknown publisher. This is expected — the application is not yet code-signed. A code-signing certificate is actively being worked toward (it is one of the things donations go toward). The full source code is available on GitHub for inspection.
+When you download and run the installer, Windows SmartScreen may warn you that the application is from an unknown publisher. This is expected — the application is not yet code-signed. A code-signing certificate is actively being worked toward (it is one of the things donations go toward).
 
 To proceed: click **More info → Run anyway**.
+
+> **Note on the source code:** Antidote is proprietary software. The source code is private and protected under the End User License Agreement. Decompiling, extracting, modifying, or redistributing the source code or any derivative of it is not permitted. The application is free to use — the source simply is not public.
 
 ---
 
@@ -328,6 +330,7 @@ Donations go toward maintenance, a code-signing certificate, and the tooling and
 |---|---|
 | 🎮 Twitch | [twitch.tv/tripartitusgaming](https://www.twitch.tv/tripartitusgaming) |
 | 📺 YouTube | [youtube.com/@TripartitusGaming](https://www.youtube.com/@TripartitusGaming) |
+| 🐙 GitHub | [github.com/Tripartitus](https://github.com/Tripartitus) |
 
 ---
 
