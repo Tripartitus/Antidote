@@ -15,6 +15,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://cdn.corenexis.com/files/c/8913145720.png" alt="Description of image">
+</div>
 
 ## What is Antidote?
 
