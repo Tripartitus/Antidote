@@ -6,7 +6,7 @@
 **Free to use. Built for everyone.**
 
 [![Windows](https://img.shields.io/badge/Windows%2010%20%7C%2011-v2.5-blue?style=flat-square)](https://github.com/Tripartitus/Antidote/releases)
-[![Linux](https://img.shields.io/badge/Linux%20(Flatpak)-v0.2-orange?style=flat-square)](https://github.com/Tripartitus/Antidote/releases)
+[![Linux](https://img.shields.io/badge/Linux%20(Flatpak)-v0.4.8-orange?style=flat-square)](https://github.com/Tripartitus/Antidote/releases)
 [![Android](https://img.shields.io/badge/Android-v0.6-green?style=flat-square)](https://github.com/Tripartitus/Antidote/releases)
 [![License](https://img.shields.io/badge/license-free%20to%20use-lightgrey?style=flat-square)](https://github.com/Tripartitus/Antidote)
 
